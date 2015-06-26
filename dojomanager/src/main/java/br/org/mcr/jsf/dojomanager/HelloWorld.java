@@ -28,7 +28,7 @@ public @Model class HelloWorld
    }
 
    public String getText()
-   {
+   {/*Teste de commit do GIT*/	   
       return text;
    }
 
